@@ -49,7 +49,7 @@ bqplot
 
 zope.interface>=5.1.0
 zipp>=0.6.0
-xlrd=>=2.0.1
+xlrd>=2.0.1
 xgboost >= 0.90
 wrapt>=1.11.2
 wordcount>=1.0
