@@ -49,20 +49,20 @@ bqplot
 
 # BRIQUE_PACKAGES HK240827_
 
-zope.interface 5.1.0
-zipp 0.6.0
-xlrd 2.0.1
-xgboost 0.90
-wrapt 1.11.2
-wordcount 1.0
-wordcloud 1.8.1
-widgetsnbextension 3.5.1
-wheel 0.34.2
-Werkzeug 0.16.0
-webencodings 0.5.1
-wcwidth 0.1.7
-w3lib 1.21.0
-urllib3 1.25.6
-update-checker 0.16
-untokenize 0.1.1
-unify 0.5
+zope.interface == 5.1.0
+zipp ==0.6.0
+xlrd ==2.0.1
+xgboost ==0.90
+wrapt ==1.11.2
+wordcount ==1.0
+wordcloud ==1.8.1
+widgetsnbextension ==3.5.1
+wheel ==0.34.2
+Werkzeug ==0.16.0
+webencodings ==0.5.1
+wcwidth ==0.1.7
+w3lib ==1.21.0
+urllib3 ==1.25.6
+update-checker ==0.16
+untokenize ==0.1.1
+unify ==0.5
