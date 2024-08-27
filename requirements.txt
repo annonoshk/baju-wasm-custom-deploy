@@ -53,7 +53,7 @@ xlrd>=2.0.1
 xgboost >= 0.90
 wrapt>=1.11.2
 wordcount>=1.0
-wordcloud=>=1.8.1
+wordcloud>=1.8.1
 widgetsnbextension >= 3.5.1
 wheel>=0.34.2
 Werkzeug>=0.16.0
