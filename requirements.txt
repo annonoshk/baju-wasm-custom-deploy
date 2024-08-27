@@ -129,7 +129,13 @@ retrying >=1.3.3
 requests >=2.27.1
 requests-oauthlib >=1.3.0
 REfO >=0.13
-redis >=3.3.8
+
+
+
+# checkpoint OK till this line... #HK240827 
+
+
+# redis >=3.3.8
 rdflib >=4.2.2
 queuelib >=1.5.0
 quepy >=0.2
